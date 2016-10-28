@@ -1,12 +1,15 @@
 #!/usr/bin/python
- 
+
+# Ben Wodfield - I found this among a few other tools. 
+# The user I got this from was removing the original credits to pass off as his own
+# Where possible I have re-added the original credits as I found from other sources
+
 #Install SleekXMPP & xmpppy Modules
 #This program is not for children -(18)
 #This program is only for educational purposes only.
 #Don't Attack people facebook account's it's illegal ! 
 #If you want to HaCk into someone's account, you must have the permission of the user. 
 #usage:Facebook-brute-force.py [wordlist file]
-#Coded By Hossam Youssef <hossam.mox@gmail.com> ^_^
  
 import xmpp
 import sys
