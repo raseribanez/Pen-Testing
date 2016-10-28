@@ -1,3 +1,9 @@
+# Ben Woodfield - Found from the same source as my other uploads of this nature
+# Surprisingly - this one still had the original credits 
+# I didn't have positive results with this program. From what I can see Hemanth has actually written in the
+# word-list generator, so it is designed to be an all-in-one solution
+# Only results I managed to get was using it as a Secure Password Generator
+
 # Author: Hemanth Sethuram
 # Email: hemanthps@gmail.com
 # Date: 16 Sep 2005
