@@ -1,9 +1,13 @@
 #!usr/bin/python
+# Ben Woodfield - Heres another one without the original writers credits (previous uploader removed them)
+# As I test and configure different software I notice similarities so I believe the original credits should be re-written
+# I  believe that Mauritiana wrote this originally
+
 #Facebook Cracker Version 2 can crack into Facebook Database 100% without Interruption By Facebook Firewall !
 #This program is for educational purposes only.
 #Don't attack people facebook accounts it's illegal ! 
 #If you want to crack into someone's account, you must have the permission of the user. 
-#Mauritania Attacker is not responsible.
+
   
   
 import sys
