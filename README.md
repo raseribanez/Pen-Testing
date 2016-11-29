@@ -5,11 +5,12 @@ So the real term Penetration Testibg involves a LOT more technical programming a
 I was asked to help somebody with re-gaining access to their own account and honestly had no idea
 where to start. This collection of tools was what I found to be useful.
 
-The word generator list in Python worls well - there isn't a combination that will be missed...
-but here lies the problem....the sheer volume of results, and the fb3.py file hits about twice a second
-I think, so just as an example...after about 6 hours, my laptop crashed (memory fail - RAM) and it was ONLY
-on the letter 'D' during the attack. So this takes time. If you have a fast machine set-up, and can dedicate
-it only for this then you will get quicker results. 
+The word generator list in Python works well - there isn't a combination that will be missed providing
+your paramaters are correct but here lies the problem....the sheer volume of results, and the fb3.py file 
+hits the account about twice a second I think, so just as an example...after about 6 hours, my laptop crashed 
+(memory fail - RAM) and it was ONLY on the letter 'D' during the attack. So this takes time. 
+
+If you have a fast machine set-up, and can dedicate it only for this then you will get quicker results. 
 
 For my arranged attack the person kinda knew what their password might have been and had a few clues
 to start me off which made the process significantly shorter...but for my random attack I did my own account
@@ -17,7 +18,13 @@ and based upon the task of NOT knowing any info prior to starting. This was the 
 system after 6 long hours. ANY prior info is a big help, because if you make your wordlist generate
 all Alphanumerics and symbols, you're going to have to be very patirnt!
 
-This time was based on 
+If you just want to test it - create a text file, put a few lines of jibberish in there, and in amongst
+them, add your password. Save the file. Then run fb3.py - you will be prompted to give the text file and
+the username/email/mobile number
+
+Run from a terminal and if theres a match you will see it stop on the correct password when it gains access 
+(the password will just be displayed as the last one it hit it with in the terminal)
+
 
 WARNING - Not for idiots. Use these resources for Penetration Testing, Criminal Investigations,
 recovering access to accounts, securing your own password. Use them responsibly, I am not responsible
