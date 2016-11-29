@@ -1,5 +1,23 @@
 # Pen-Testing
-Another set of tools I find myself using often. Basic Penetration Testing tools.
+Another set of tools I have had a play around with.
+
+So the real term Penetration Testibg involves a LOT more technical programming and skills I know.
+I was asked to help somebody with re-gaining access to their own account and honestly had no idea
+where to start. This collection of tools was what I found to be useful.
+
+The word generator list in Python worls well - there isn't a combination that will be missed...
+but here lies the problem....the sheer volume of results, and the fb3.py file hits about twice a second
+I think, so just as an example...after about 6 hours, my laptop crashed (memory fail - RAM) and it was ONLY
+on the letter 'D' during the attack. So this takes time. If you have a fast machine set-up, and can dedicate
+it only for this then you will get quicker results. 
+
+For my arranged attack the person kinda knew what their password might have been and had a few clues
+to start me off which made the process significantly shorter...but for my random attack I did my own account
+and based upon the task of NOT knowing any info prior to starting. This was the one that crashed up my 
+system after 6 long hours. ANY prior info is a big help, because if you make your wordlist generate
+all Alphanumerics and symbols, you're going to have to be very patirnt!
+
+This time was based on 
 
 WARNING - Not for idiots. Use these resources for Penetration Testing, Criminal Investigations,
 recovering access to accounts, securing your own password. Use them responsibly, I am not responsible
