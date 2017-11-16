@@ -1,4 +1,7 @@
 # Pen-Testing
+
+NOTE this is a collection of programs I found by searching around....some of these DO work and I only ever tested them on my own account.
+
 Another set of tools I have had a play around with.
 
 So the real term Penetration Testibg involves a LOT more technical programming and skills I know.
